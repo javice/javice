@@ -22,6 +22,9 @@ Ingeniero de soporte N2 con más de cinco años de experiencia proporcionando so
 ![Gatling](https://img.shields.io/badge/-Gatling-FF9E2A?style=flat-square&logo=gatling&logoColor=white)
 
 ### Lenguajes de Programación
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -43,6 +46,11 @@ Ingeniero de soporte N2 con más de cinco años de experiencia proporcionando so
 ![RestAssured](https://img.shields.io/badge/-RestAssured-4B9E4B?style=flat-square&logo=restassured&logoColor=white)
 ![Karate](https://img.shields.io/badge/-Karate-FDB60D?style=flat-square&logo=karate&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=white)
+
+### Data Science
+![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)
 
 ## 💼 Experiencia Profesional
 
