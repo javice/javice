@@ -7,7 +7,10 @@
 
 ## 🚀 Sobre Mí
 
-Ingeniero de soporte N2 con más de cinco años de experiencia proporcionando soluciones técnicas a clientes. Experto en diagnóstico de problemas y resolución de incidencias de forma efectiva y eficiente. Especialista en pruebas de software con experiencia en identificación y resolución de errores. Domino pruebas manuales y automatizadas, con capacidad de trabajo en equipo y excelente atención al detalle.
+Ingeniero de soporte N2 con más de cinco años de experiencia proporcionando soluciones técnicas a clientes. 
+Experto en diagnóstico de problemas y resolución de incidencias de forma efectiva y eficiente. 
+Especialista en pruebas de software con experiencia en identificación y resolución de errores. 
+Domino pruebas manuales y automatizadas, con capacidad de trabajo en equipo y excelente atención al detalle.
 
 ## 🛠️ Stack Tecnológico
 
