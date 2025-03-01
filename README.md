@@ -21,6 +21,7 @@ Domino pruebas manuales y automatizadas, con capacidad de trabajo en equipo y ex
 ![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![TestNG](https://img.shields.io/badge/-TestNG-0099E5?style=flat-square&logo=testng&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/robot--framework-6.1.1-green)
 ![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat-square&logo=apache-jmeter&logoColor=white)
 ![Gatling](https://img.shields.io/badge/-Gatling-FF9E2A?style=flat-square&logo=gatling&logoColor=white)
 
